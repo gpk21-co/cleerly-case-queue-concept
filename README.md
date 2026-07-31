@@ -10,8 +10,7 @@ what that kind of severity-to-threshold mapping could look like in a case
 queue — a product-thinking exercise, not a rebuild of Cleerly's actual
 product.
 
-**[View the live prototype →](#)**  *(replace with your GitHub Pages URL
-once enabled — see below)*
+https://gpk21-co.github.io/cleerly-case-queue-concept/ 
 
 ## What it demonstrates
 
