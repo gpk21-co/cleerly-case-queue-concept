@@ -8,6 +8,7 @@ Sorting a case queue by AI-flagged severity
 Clicking into a case to see stenosis mapped against reimbursement bands (the "ruler" component is the core interaction)
 Tying prior-authorization status to that same severity read
 Summary metrics a product team might track for this workflow (time to auth, auto-clear rate, cases needing manual review)
+
 Important disclaimer
 
 This is an independent, self-directed concept. It was not built by, for, or with Cleerly, Inc., and Cleerly was not involved in its creation. All patient names, case IDs, stenosis values, and plaque data are entirely synthetic and fictional, generated for demonstration purposes only. No real patient data, medical imagery, or proprietary Cleerly technology, code, or trademarks are used. References to Cleerly PREVIEW are limited to publicly available information about the product's stated purpose, used here only as context for the problem this concept explores.
